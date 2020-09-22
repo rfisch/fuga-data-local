@@ -1,0 +1,7 @@
+{
+  "attributes": { "contact-details": null, "email": null, "name": "fuga" },
+  "relationships": {
+    "codes": { "data": [] },
+    "participant-type": { "data": [] }
+  }
+}

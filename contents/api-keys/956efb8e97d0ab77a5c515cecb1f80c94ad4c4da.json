@@ -1,0 +1,16 @@
+{
+	"attributes": {
+		"external-id": "fuga",
+		"secret": "28dc291cbfe91fe8338fd66a7aa5f5e9"
+	},
+	"relationships": {
+		"participants": {
+			"data": [
+				{
+					"id": "fdf21d7f3965d55483f845fcc5aba717f65177d6",
+					"type": "participants"
+				}
+			]
+		}
+	}
+}

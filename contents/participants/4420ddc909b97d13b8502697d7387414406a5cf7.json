@@ -1,0 +1,9 @@
+{
+  "attributes": {
+    "contact-details": null,
+    "email": null,
+    "name": "lambda",
+    "role": null
+  },
+  "relationships": { "codes": { "data": [] } }
+}

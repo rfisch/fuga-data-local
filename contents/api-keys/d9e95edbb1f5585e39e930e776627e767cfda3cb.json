@@ -1,0 +1,16 @@
+{
+	"attributes": {
+		"external-id": "lambda",
+		"secret": "422250f90ac47f321d7c5bcdc41c1cfd"
+	},
+	"relationships": {
+		"participants": {
+			"data": [
+				{
+					"id": "4420ddc909b97d13b8502697d7387414406a5cf7",
+					"type": "participants"
+				}
+			]
+		}
+	}
+}
